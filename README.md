@@ -103,3 +103,8 @@ Bootstrapping 相比被 VC 投资的创业公司，是更好的选择。
 * [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 * [Talks from the BaconBizConf](http://baconbiz.com/)
 * [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
+
+
+## Tools
+
+- [Commitment Issues](https://github.com/dotsystemsdevs/commitmentissues) - Free open-source web app that issues a satirical "death certificate" for abandoned GitHub repos — algorithmic cause of death, last commit as last words, severity score, profile graveyard scan.
