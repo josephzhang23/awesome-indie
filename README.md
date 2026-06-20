@@ -66,6 +66,9 @@ bootstrapped.io 上用户提交的文章每周最佳文章摘要。由 [Darren S
 * [The SaaS Bootstrapper](http://thesaasbootstrapper.com/resources/)
 内容包括 bootstrapping、Saas、增长以及其它创业主题，由 [Mac Martine](http://macmartine.com/) 策划。
 
+* [One Person Company](https://onepersoncompany.com/)
+面向个人创业者和独立开发者的一人公司运营指南站，覆盖如何起步、AI 工具技术栈、自动化与变现，并提供每周运营简报与 200+ 免费 AI 运营 Skill。
+
 ### 播客
 * [Startups for the rest of us](http://www.startupsfortherestofus.com/)
 由 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 创办于 2010 年，几乎涉及了创业中的一切。[这里](http://www.startupsfortherestofus.com/greatest-hits)可以找到他们播客的“最佳“合集。
