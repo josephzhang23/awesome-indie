@@ -103,3 +103,8 @@ Bootstrapping 相比被 VC 投资的创业公司，是更好的选择。
 * [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 * [Talks from the BaconBizConf](http://baconbiz.com/)
 * [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
+
+### 工具
+* [GEOKit](https://geokit.site)
+面向独立开发者与出海产品的免费生成式引擎优化 (GEO) 与 AI SEO 站长工具箱。提供 llms.txt 验证、AI 爬虫规则生成、结构化数据制作与就绪度审计。
+
