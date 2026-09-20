@@ -103,3 +103,6 @@ Bootstrapping 相比被 VC 投资的创业公司，是更好的选择。
 * [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 * [Talks from the BaconBizConf](http://baconbiz.com/)
 * [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
+
+### 工具
+* [Client Close Kit](https://darweesh128-cmd.github.io/client-close-kit/) — 免费浏览器端自由职业发票、报价与[对账单/未结余额生成器](https://darweesh128-cmd.github.io/client-close-kit/statement-of-account.html)（MIT，无需注册）。
