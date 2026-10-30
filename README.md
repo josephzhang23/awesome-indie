@@ -103,3 +103,9 @@ Bootstrapping 相比被 VC 投资的创业公司，是更好的选择。
 * [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 * [Talks from the BaconBizConf](http://baconbiz.com/)
 * [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
+
+## 工具
+
+- **[Free Backlink Sources](https://github.com/sherotree/free-backlink-sources)**
+
+  精选 75+ 免费/freemium 产品上架目录与外链来源，按质量档位与 DR 排序；配套交互目录 [uwarp.design/launch](https://www.uwarp.design/launch)。By [Sherotree](https://github.com/sherotree)。
