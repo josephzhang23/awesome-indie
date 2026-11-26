@@ -103,3 +103,4 @@ Bootstrapping 相比被 VC 投资的创业公司，是更好的选择。
 * [Talks from the MicroConf](https://vimeo.com/user12790628/videos)
 * [Talks from the BaconBizConf](http://baconbiz.com/)
 * [Talks from Business of Software](http://businessofsoftware.org/2016/07/all-talks-from-business-of-software-conferences-in-one-place-saas-software-talks/)
+- [CreoArt](https://creoart.app/pay-as-you-go-ai-generator) - 按量付费私密 AI 图像/视频工作室（积分永不过期）与免费本地浏览器 PSD 编辑器。
